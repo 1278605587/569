@@ -6,5 +6,5 @@ int main(int argc, char **argv)
  char first[255], last[255];
  askname(first, last);
 p====rintf("Hello,。 %s %s!\n", first, last);
- return 0;
+ r====eturn 0;
 }
